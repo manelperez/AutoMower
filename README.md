@@ -1,27 +1,15 @@
 # AutoMower
-Automatic mower that mows the grass in the garden.
 
-===================================
 
-It has been developed on:
-- .NET 6.0
+This is an example of an automatic lawnmower project that mows grass in the garden.
+
+The goal is use new technologies and best practices.
 
 Author
 ------
 
 - Manel Perez Clot
 - License MIT
-
-Installation
-------------
-
-
-# AutoMower
-
-
-This is an example of an automatic lawnmower project that mows grass in the garden.
-
-The goal is use new technologies and best practices.
 
 ## Technologies
 
